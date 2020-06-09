@@ -1,0 +1,17 @@
+Pour procéder à l'installation :
+Créer une base de données "bibliio"
+Importer dans cette base de données "bibliio.sql"
+Configurer libs/config.php avec les identifiants phpmyadmin
+Installer le site
+Les identifiants sont :
+
+	Login				Mot de passe
+
+bertrandmanon			password4
+boyavalclément			password5
+el_hanidino				password6
+fauconnathan			password7
+brouartaxel				password8
+
+Les mots de passes étant encryptés dans la base de données sont sensibles à la casse
+Les utilisateurs bertrandmanon et boyavalclément sont administrateurs
